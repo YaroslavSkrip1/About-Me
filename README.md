@@ -5,7 +5,7 @@ I am a Unity Developer and a student at Kharkov National University of Radio Ele
 
 Over the course of my journey, I've honed a diverse set of skills, including:
 
-📌**Unity Engine Mastery:** 2 years experience 
+📌**Unity Engine Mastery:** 4 years experience 
 
 📌**C# Fluency** 
 
